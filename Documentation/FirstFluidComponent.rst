@@ -45,7 +45,7 @@ Write your First Fluid Component
    in your `ext_localconf.php` file, register the ComponentCollection as global Fluid namespace:
 
    ..  attention::
-      this is optional for nomral usage. But required for EXT:storybook
+      this is optional for normal usage. But required for EXT:storybook
 
    ..  literalinclude:: /dummy-project/src/extensions/dummy_extension/ext_localconf.php
        :caption: ext_localconf.php
