@@ -96,3 +96,9 @@ Installation of EXT:storybook and storybook
        You can read more about this in the `how to use vite with storybook <
 
    You can now start creating stories for your TYPO3 Fluid components!
+
+  To access your storybook in the frontend, 
+  open http://localhost:8011/
+  or, with ddev:
+  https://<yourprooject>.ddev.site:8080/
+
